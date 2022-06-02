@@ -1,1 +1,1 @@
-This is a repository for multiscale modelling in integrated assessment models
+This is a repository for application in the area of multiscale energy modelling in integrated assessment models and agent-based integrated assessment models
